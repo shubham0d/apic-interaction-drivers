@@ -1,2 +1,2 @@
 # apic-interaction-drivers
-A set of small driver codes to interact and modify APIC in intel
+Few small sample drivers to interact and modify APIC memory in intel processor.
